@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 print("             PORT-SCANNER      ")
-print("           ###############    ")
+print("           ################   ")
 
 import socket
 
@@ -18,4 +18,4 @@ def portScanner(port):
     else:
         print("The port is open")
 
-portScanner(port)
+portScanner(port) 
